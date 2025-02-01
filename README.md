@@ -14,7 +14,7 @@
 - 🔹 **Özellik 2**: Görseller mevcut.  
 - 🔹 **Özellik 3**: Responsive tasarımdır.  
 - 🔹 **Özellik 4**: leafletjs kütüphanesi kullanıldı.  
-- 🔹 **Özellik 4**: ![Projenin canlı hali](notemapturkey.netlify.app)  .  
+- 🔹 **Özellik 4**: Projenin canlı hali(notemapturkey.netlify.app).  
 
 ---
 
