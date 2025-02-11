@@ -1,7 +1,5 @@
 # note-map
 
-# note-map
-
 **kisiselle-tirilebilir blog** Projemin temel amacı, farklı lokasyonlarda fikirlerinizi ve bilgilerinizi hızlıca not alıp paylaşabileceğiniz kullanıcı dostu bir deneyim sunmaktır. Özellikle lokasyon bazlı notlar ve proje planlamaları için ideal olan bu uygulamanın, günlük iş hayatınızda ve yaratıcı süreçlerinizde size ilham vereceğini umuyorum.🚀  
 
 ![Proje Görseli](./images/notemap-gif.gif)  
